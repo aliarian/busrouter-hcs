@@ -29,7 +29,7 @@
   "license": "MIT",
   "scripts": {
     "start": "parcel index.html bus-arrival/index.html -d tmp --no-hmr",
-    "build": "rm -rf dist && parcel build index.html bus-arrival/index.html && cpy favicon.ico dist && node tasks/generateHeaders",
+    "build": "rm -rf dist && ./node_modules/.bin/parcel build index.html bus-arrival/index.html && cpy favicon.ico dist && node tasks/generateHeaders",
     "prod": "npx serve dist/"
   },
   "dependencies": {
