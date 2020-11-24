@@ -1,0 +1,1953 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": "10001",
+            "properties": {
+                "number": "10001",
+                "services": [
+                    "100",
+                    "200",
+                    "300",
+                    "450"
+                ],
+                "name": "Booker T.W. Park"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.45137,
+                    30.30307
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "10002",
+            "properties": {
+                "number": "10002",
+                "services": [
+                    "100"
+                ],
+                "name": "Ave G/ 1st "
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.4533,
+                    30.30749
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "10003",
+            "properties": {
+                "number": "10003",
+                "services": [
+                    "100"
+                ],
+                "name": "Park Place OJCC"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.45561,
+                    30.307809999999996
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "10004",
+            "properties": {
+                "number": "10004",
+                "services": [
+                    "100"
+                ],
+                "name": "1st/ Salvation Army"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.45345999999999,
+                    30.309490000000004
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "10004A",
+            "properties": {
+                "number": "10004A",
+                "services": [
+                    "100",
+                    "450"
+                ],
+                "name": "Transit Office"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.454197,
+                    30.310908
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "10005",
+            "properties": {
+                "number": "10005",
+                "services": [
+                    "100"
+                ],
+                "name": "1st/ Fiesta "
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.45527,
+                    30.31288
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "10006",
+            "properties": {
+                "number": "10006",
+                "services": [
+                    "100"
+                ],
+                "name": "Phillips/ Main "
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.45675,
+                    30.31312
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "10007",
+            "properties": {
+                "number": "10007",
+                "services": [
+                    "100"
+                ],
+                "name": "Phillips/ San Jacinto "
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.45895,
+                    30.313159999999996
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "10008",
+            "properties": {
+                "number": "10008",
+                "services": [
+                    "100"
+                ],
+                "name": "Frazier/ Lewis"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.46285999999999,
+                    30.315790000000003
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "10009",
+            "properties": {
+                "number": "10009",
+                "services": [
+                    "100"
+                ],
+                "name": "Frazier/ Dallas "
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.46431,
+                    30.32045
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "10010",
+            "properties": {
+                "number": "10010",
+                "services": [
+                    "100"
+                ],
+                "name": "Frazier/ Wilson"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.4647,
+                    30.325590000000002
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "10011",
+            "properties": {
+                "number": "10011",
+                "services": [
+                    "100"
+                ],
+                "name": "Wilson/ Heritage Apt"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.4673,
+                    30.32665
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "10012",
+            "properties": {
+                "number": "10012",
+                "services": [
+                    "100"
+                ],
+                "name": "Wilson/ Treehouse Apt"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.47046999999999,
+                    30.32597
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "10013",
+            "properties": {
+                "number": "10013",
+                "services": [
+                    "100"
+                ],
+                "name": "Plantation Dr/ Wilson"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.4734,
+                    30.327609999999996
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "10014",
+            "properties": {
+                "number": "10014",
+                "services": [
+                    "100"
+                ],
+                "name": "Plantation Dr/ Hillcrest"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.47408,
+                    30.32974
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "10015",
+            "properties": {
+                "number": "10015",
+                "services": [
+                    "100"
+                ],
+                "name": "Plantation Dr/ Timbers of Pine Hollow Apt"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.47415,
+                    30.33132
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "10016",
+            "properties": {
+                "number": "10016",
+                "services": [
+                    "100"
+                ],
+                "name": "Plantation Dr/ Loop 336"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.47359,
+                    30.33401
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "10017",
+            "properties": {
+                "number": "10017",
+                "services": [
+                    "100"
+                ],
+                "name": "Police/ Court"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.47535,
+                    30.339140000000004
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "10018",
+            "properties": {
+                "number": "10018",
+                "services": [
+                    "100"
+                ],
+                "name": "Frazier/ Oak Creek Apt"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.46853,
+                    30.338490000000004
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "10019",
+            "properties": {
+                "number": "10019",
+                "services": [
+                    "100"
+                ],
+                "name": "Loop 336/ Sun Park Apt"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.47104,
+                    30.33548
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "10020",
+            "properties": {
+                "number": "10020",
+                "services": [
+                    "100"
+                ],
+                "name": "Loop 336/ Stoneside"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.47593,
+                    30.33431
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "10021",
+            "properties": {
+                "number": "10021",
+                "services": [
+                    "100"
+                ],
+                "name": "Lowes and Sam's"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.48104000000001,
+                    30.32845
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "10022",
+            "properties": {
+                "number": "10022",
+                "services": [
+                    "100"
+                ],
+                "name": "Walmart"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.47991999999999,
+                    30.332340000000002
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "10023",
+            "properties": {
+                "number": "10023",
+                "services": [
+                    "100"
+                ],
+                "name": "Loop 336/ Hobby Lobby"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.47567,
+                    30.33411
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "10024",
+            "properties": {
+                "number": "10024",
+                "services": [
+                    "100"
+                ],
+                "name": "Plantation Dr/ Loop 336"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.4738,
+                    30.333340000000003
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "10025",
+            "properties": {
+                "number": "10025",
+                "services": [
+                    "100"
+                ],
+                "name": "Plantation Dr/ Autumn Woods Apt"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.4743,
+                    30.33148
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "10026",
+            "properties": {
+                "number": "10026",
+                "services": [
+                    "100"
+                ],
+                "name": "Plantation Dr/ Hillcrest"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.47436,
+                    30.32987
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "10027",
+            "properties": {
+                "number": "10027",
+                "services": [
+                    "100"
+                ],
+                "name": "Plantation Dr/ Wilson"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.47357,
+                    30.327579999999998
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "10028",
+            "properties": {
+                "number": "10028",
+                "services": [
+                    "100"
+                ],
+                "name": "Wilson/ Treehouse Apt"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.47046,
+                    30.32583
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "10029",
+            "properties": {
+                "number": "10029",
+                "services": [
+                    "100"
+                ],
+                "name": "Wilson/ Herritage Apt"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.46725,
+                    30.3265
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "10030",
+            "properties": {
+                "number": "10030",
+                "services": [
+                    "100"
+                ],
+                "name": "Frazier/ Semands Ave"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.46477,
+                    30.32402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "10031",
+            "properties": {
+                "number": "10031",
+                "services": [
+                    "100"
+                ],
+                "name": "Frazier/ Dallas "
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.46455,
+                    30.320420000000002
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "10032",
+            "properties": {
+                "number": "10032",
+                "services": [
+                    "100"
+                ],
+                "name": "Frazier/ Lewis "
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.46330999999999,
+                    30.3164
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "10033",
+            "properties": {
+                "number": "10033",
+                "services": [
+                    "100"
+                ],
+                "name": "Frazier/  Davis "
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.46070999999999,
+                    30.312070000000002
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "10034",
+            "properties": {
+                "number": "10034",
+                "services": [
+                    "100"
+                ],
+                "name": "Davis / Thompson"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.45824,
+                    30.312070000000002
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "10035",
+            "properties": {
+                "number": "10035",
+                "services": [
+                    "100"
+                ],
+                "name": "Davis/ Main "
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.4572,
+                    30.312070000000002
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "10036",
+            "properties": {
+                "number": "10036",
+                "services": [
+                    "100"
+                ],
+                "name": "1st/ Davis "
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.45477,
+                    30.311590000000002
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "10037",
+            "properties": {
+                "number": "10037",
+                "services": [
+                    "100"
+                ],
+                "name": "1st/ Salvation Army"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.45361,
+                    30.3093
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "20001",
+            "properties": {
+                "number": "20001",
+                "services": [
+                    "200"
+                ],
+                "name": "Metcalf/ Parish Life Center"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.46321999999999,
+                    30.309540000000002
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "20003",
+            "properties": {
+                "number": "20003",
+                "services": [
+                    "200"
+                ],
+                "name": "County Library"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.46777,
+                    30.31007
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "20005",
+            "properties": {
+                "number": "20005",
+                "services": [
+                    "200"
+                ],
+                "name": "Conroe Park and Ride"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.46993,
+                    30.30955
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "20007",
+            "properties": {
+                "number": "20007",
+                "services": [
+                    "200"
+                ],
+                "name": "Tri-County Services"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.4832,
+                    30.304409999999997
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "20009",
+            "properties": {
+                "number": "20009",
+                "services": [
+                    "200"
+                ],
+                "name": "Sgt Ed Holcomb/ Social Security"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.48129,
+                    30.313000000000002
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "20011",
+            "properties": {
+                "number": "20011",
+                "services": [
+                    "200"
+                ],
+                "name": "Sgt Ed Holcomb/ Home Depot"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.47631,
+                    30.3167
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "20013",
+            "properties": {
+                "number": "20013",
+                "services": [
+                    "200"
+                ],
+                "name": "Longmire/ Apartments"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.47754,
+                    30.32021
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "20015",
+            "properties": {
+                "number": "20015",
+                "services": [
+                    "200"
+                ],
+                "name": "Longmire/ Wilson Rd"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.48119,
+                    30.3232
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "20017",
+            "properties": {
+                "number": "20017",
+                "services": [
+                    "200"
+                ],
+                "name": "Longmire/ Carriage Inn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.48527,
+                    30.32638
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "20019",
+            "properties": {
+                "number": "20019",
+                "services": [
+                    "200"
+                ],
+                "name": "Aldi Grocery"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.48946,
+                    30.32987
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "20021",
+            "properties": {
+                "number": "20021",
+                "services": [
+                    "200"
+                ],
+                "name": "Longmire/ Heritage Oaks"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.48689,
+                    30.327509999999997
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "20023",
+            "properties": {
+                "number": "20023",
+                "services": [
+                    "200"
+                ],
+                "name": "Longmire/ Conroe High School"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.48185,
+                    30.32337
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "20025",
+            "properties": {
+                "number": "20025",
+                "services": [
+                    "200"
+                ],
+                "name": "Longmire/ Cedars Apartment"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.47779,
+                    30.320040000000002
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "20027",
+            "properties": {
+                "number": "20027",
+                "services": [
+                    "200"
+                ],
+                "name": "Conroe Center"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.46414,
+                    30.312170000000002
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "30002",
+            "properties": {
+                "number": "30002",
+                "services": [
+                    "300"
+                ],
+                "name": "Ave E/ Salvation Army"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.4528,
+                    30.30927
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "30003",
+            "properties": {
+                "number": "30003",
+                "services": [
+                    "300"
+                ],
+                "name": "2nd/ Avenue F"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.45215999999999,
+                    30.30875
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "30004",
+            "properties": {
+                "number": "30004",
+                "services": [
+                    "300"
+                ],
+                "name": "Ave F/ Booker T Washington "
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.44991,
+                    30.30906
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "30005",
+            "properties": {
+                "number": "30005",
+                "services": [
+                    "300"
+                ],
+                "name": "Booker T Wasington/ Ave I"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.4487,
+                    30.307409999999997
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "30006",
+            "properties": {
+                "number": "30006",
+                "services": [
+                    "300"
+                ],
+                "name": "MLK/ Washington Jr High"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.44749,
+                    30.30524
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "30007",
+            "properties": {
+                "number": "30007",
+                "services": [
+                    "300"
+                ],
+                "name": "MLK/ 6th "
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.44509000000001,
+                    30.30585
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "30008",
+            "properties": {
+                "number": "30008",
+                "services": [
+                    "300"
+                ],
+                "name": "7th/ MLK Pl "
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.44318,
+                    30.30449
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "30009",
+            "properties": {
+                "number": "30009",
+                "services": [
+                    "300"
+                ],
+                "name": "7th/ Tall Timbers Apt"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.44259,
+                    30.30296
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "30010",
+            "properties": {
+                "number": "30010",
+                "services": [
+                    "300"
+                ],
+                "name": "7th/ Silverdale"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.44175,
+                    30.300659999999997
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "30011",
+            "properties": {
+                "number": "30011",
+                "services": [
+                    "300"
+                ],
+                "name": "Silverdale/ 5th "
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.44511,
+                    30.299809999999997
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "30012",
+            "properties": {
+                "number": "30012",
+                "services": [
+                    "300"
+                ],
+                "name": "1st/ Silverdale Dr"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.45002,
+                    30.298820000000003
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "30013",
+            "properties": {
+                "number": "30013",
+                "services": [
+                    "300"
+                ],
+                "name": "Ave G/ 1st"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.4533,
+                    30.30749
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "30014",
+            "properties": {
+                "number": "30014",
+                "services": [
+                    "300"
+                ],
+                "name": "Metcalf/ Main "
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.45728000000001,
+                    30.3105
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "30015",
+            "properties": {
+                "number": "30015",
+                "services": [
+                    "300"
+                ],
+                "name": "Metcalf/ Herritage Park"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.45943,
+                    30.31048
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "30016",
+            "properties": {
+                "number": "30016",
+                "services": [
+                    "300"
+                ],
+                "name": "Frazier/ Metcalf"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.46093,
+                    30.30945
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "30017",
+            "properties": {
+                "number": "30017",
+                "services": [
+                    "300"
+                ],
+                "name": "Frazier/ Mill Ave"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.45926,
+                    30.30415
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "30018",
+            "properties": {
+                "number": "30018",
+                "services": [
+                    "300"
+                ],
+                "name": "Frazier/ Hickerson "
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.458,
+                    30.300079999999998
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "30019",
+            "properties": {
+                "number": "30019",
+                "services": [
+                    "300"
+                ],
+                "name": "S Frazier St south of Hickerson"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.45756,
+                    30.29862
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "30020",
+            "properties": {
+                "number": "30020",
+                "services": [
+                    "300"
+                ],
+                "name": "Frazier/ Gladstell "
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.4565,
+                    30.294520000000002
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "30021",
+            "properties": {
+                "number": "30021",
+                "services": [
+                    "300"
+                ],
+                "name": "Frazier/ Piney Woods Apt"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.45635,
+                    30.291179999999997
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "30022",
+            "properties": {
+                "number": "30022",
+                "services": [
+                    "300"
+                ],
+                "name": "Frazier/ Enterprise ROW"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.4564,
+                    30.287259999999996
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "30023",
+            "properties": {
+                "number": "30023",
+                "services": [
+                    "300"
+                ],
+                "name": "Frazier/ Rhodes"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.45639,
+                    30.28463
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "30024",
+            "properties": {
+                "number": "30024",
+                "services": [
+                    "300"
+                ],
+                "name": "Frazier/ Loop 336"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.45644,
+                    30.282490000000003
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "30025",
+            "properties": {
+                "number": "30025",
+                "services": [
+                    "300"
+                ],
+                "name": "Loop 336/ Old Kroger"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.45987,
+                    30.27948
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "30026",
+            "properties": {
+                "number": "30026",
+                "services": [
+                    "300"
+                ],
+                "name": "River Pointe Dr/ Incredible Pizza"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.46248,
+                    30.280440000000002
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "30027",
+            "properties": {
+                "number": "30027",
+                "services": [
+                    "300"
+                ],
+                "name": "River Pointe Dr/ Grand Lakes Dr"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.46421,
+                    30.28237
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "30028",
+            "properties": {
+                "number": "30028",
+                "services": [
+                    "300"
+                ],
+                "name": "Riverwood Ct/ Riverpointe Prof Building"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.46562,
+                    30.28446
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "30029",
+            "properties": {
+                "number": "30029",
+                "services": [
+                    "300"
+                ],
+                "name": "Conroe Regional Medical Center East"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.46655,
+                    30.284240000000004
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "30030",
+            "properties": {
+                "number": "30030",
+                "services": [
+                    "300"
+                ],
+                "name": "Conroe Regionla Medical Center West"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.46989,
+                    30.28462
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "30031",
+            "properties": {
+                "number": "30031",
+                "services": [
+                    "300"
+                ],
+                "name": "Family Medicine"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.47129,
+                    30.28492
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "30032",
+            "properties": {
+                "number": "30032",
+                "services": [
+                    "300"
+                ],
+                "name": "VA Life Check at 690"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.47198,
+                    30.28238
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "30032A",
+            "properties": {
+                "number": "30032A",
+                "services": [
+                    "300"
+                ],
+                "name": "Crescent Campus Blvd/ Kroger"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.46298490000001,
+                    30.2767713
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "30032B",
+            "properties": {
+                "number": "30032B",
+                "services": [
+                    "300"
+                ],
+                "name": "Urban Ave/ 336 Marketplace"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.46684350000001,
+                    30.2788253
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "30033",
+            "properties": {
+                "number": "30033",
+                "services": [
+                    "300"
+                ],
+                "name": "Frazier/ Rhodes "
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.45617,
+                    30.284370000000003
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "30034",
+            "properties": {
+                "number": "30034",
+                "services": [
+                    "300"
+                ],
+                "name": "Frazier/ Enterprise Row"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.45609,
+                    30.28675
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "30035",
+            "properties": {
+                "number": "30035",
+                "services": [
+                    "300"
+                ],
+                "name": "Frazier/ Foster Dr"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.45612,
+                    30.290779999999998
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "30036",
+            "properties": {
+                "number": "30036",
+                "services": [
+                    "300"
+                ],
+                "name": "Frazier/ Gladstell"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.4561,
+                    30.29402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "30037",
+            "properties": {
+                "number": "30037",
+                "services": [
+                    "300"
+                ],
+                "name": "Frazier St south of Hickerson"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.45730999999999,
+                    30.298740000000002
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "30038",
+            "properties": {
+                "number": "30038",
+                "services": [
+                    "300"
+                ],
+                "name": "Frazier/ Mill Ave"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.45894,
+                    30.303929999999998
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "30039",
+            "properties": {
+                "number": "30039",
+                "services": [
+                    "300"
+                ],
+                "name": "Frazier/ Metcalf "
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.46083,
+                    30.30995
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "30040",
+            "properties": {
+                "number": "30040",
+                "services": [
+                    "300"
+                ],
+                "name": "Metcalf/ San Jacinto "
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.45909,
+                    30.31028
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "30041",
+            "properties": {
+                "number": "30041",
+                "services": [
+                    "300"
+                ],
+                "name": "Metcalf/ Main "
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.45728000000001,
+                    30.310340000000004
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "30042",
+            "properties": {
+                "number": "30042",
+                "services": [
+                    "300"
+                ],
+                "name": "Ave G/ 1st "
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.45323570000001,
+                    30.3073572
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "45002",
+            "properties": {
+                "number": "45002",
+                "services": [
+                    "450"
+                ],
+                "name": "Pauline "
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.45543,
+                    30.31917
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "45005",
+            "properties": {
+                "number": "45005",
+                "services": [
+                    "450"
+                ],
+                "name": "1st/ Semands "
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.45539000000001,
+                    30.326390000000004
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "45008",
+            "properties": {
+                "number": "45008",
+                "services": [
+                    "450"
+                ],
+                "name": "1st/ Hilbig "
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.45633000000001,
+                    30.33515
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "45009",
+            "properties": {
+                "number": "45009",
+                "services": [
+                    "450"
+                ],
+                "name": "Montgomery County Jail"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.453163,
+                    30.335908
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "45011",
+            "properties": {
+                "number": "45011",
+                "services": [
+                    "450"
+                ],
+                "name": "Health & Human Services"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.44291,
+                    30.33888
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "45014",
+            "properties": {
+                "number": "45014",
+                "services": [
+                    "450"
+                ],
+                "name": "Texas Dept of Assistive & Rehabilitative Services"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.43786,
+                    30.34093
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "45017",
+            "properties": {
+                "number": "45017",
+                "services": [
+                    "450"
+                ],
+                "name": "Lone Star College"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.44503,
+                    30.351490000000002
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "45019",
+            "properties": {
+                "number": "45019",
+                "services": [
+                    "450"
+                ],
+                "name": "Woodside Manor"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.45218299999999,
+                    30.339237
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "45020",
+            "properties": {
+                "number": "45020",
+                "services": [
+                    "450"
+                ],
+                "name": "Family Protective Services"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.46817,
+                    30.33216
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "45023",
+            "properties": {
+                "number": "45023",
+                "services": [
+                    "450"
+                ],
+                "name": "Loop 336/ HEB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.46582,
+                    30.33632
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "45026",
+            "properties": {
+                "number": "45026",
+                "services": [
+                    "450"
+                ],
+                "name": "1st/ Hilbig "
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.45659,
+                    30.335109999999997
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "45029",
+            "properties": {
+                "number": "45029",
+                "services": [
+                    "450"
+                ],
+                "name": "1st/ Semands"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.45566,
+                    30.32651
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "45032",
+            "properties": {
+                "number": "45032",
+                "services": [
+                    "450"
+                ],
+                "name": "1st/ Pauline"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.45573,
+                    30.31925
+                ]
+            }
+        }
+    ]
+}
