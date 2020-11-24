@@ -5,14 +5,14 @@ const length = require('@turf/length').default;
 const CheapRuler = require('cheap-ruler');
 const ruler = new CheapRuler(1.3);
 
-const stops = JSON.parse(fs.readFileSync('data/3/stops2.json'));
+const stops = JSON.parse(fs.readFileSync('visualization/data/stops2.json'));
 const stopsArr = Object.keys(stops).map((s) => ({
   no: s,
   ...stops[s],
 }));
-const routesGeoJSON = JSON.parse(fs.readFileSync('data/3/routes.geojson'));
+const routesGeoJSON = JSON.parse(fs.readFileSync('visualization/data/routes.geojson'));
 const { features: routes } = routesGeoJSON;
-const serviceStops = JSON.parse(fs.readFileSync('data/3/serviceStops.json'));
+const serviceStops = JSON.parse(fs.readFileSync('visualization/data/serviceStops.json'));
 
 // Sort routes by length - shortest to furthest
 const sortedRoutes = routes.sort(
@@ -32,6 +32,7 @@ const newRoutes = [];
 
 sortedServices.forEach((service) => {
   const _stops = serviceStops[service];
+  console.log(`File generated: ${stopsArr}`);
   const allStops = [...new Set([..._stops[0], ...(_stops[1] || [])])];
   // const highestLevel = allStops.reduce((acc, s) => Math.max(stops[s].level || 0, acc), 0);
   // const level = highestLevel + 1;
