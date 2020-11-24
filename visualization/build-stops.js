@@ -3,7 +3,7 @@ const circle = require('@turf/circle').default;
 const { round } = require('@turf/helpers');
 const toTitleCase = require('../utils/titleCase');
 
-const stops = JSON.parse(fs.readFileSync('data/3/stops.geojson'));
+const stops = JSON.parse(fs.readFileSync('visualization/data/stops.geojson'));
 const levels = JSON.parse(fs.readFileSync('visualization/data/levels.json'));
 
 console.log(`Total stops: ${stops.features.length}`);
