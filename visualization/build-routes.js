@@ -79,8 +79,10 @@ console.log(`File generated: ${routesFile}`);
 const stopLevels = {};
 stopsArr.map((s) => {
   const { occupiedLevels } = stops[s.no];
-  const highestLevel = Math.max(...occupiedLevels);
-  stopLevels[s.no] = highestLevel;
+  if (occupiedLevels != undefined){
+    const highestLevel = Math.max(...occupiedLevels);
+    stopLevels[s.no] = highestLevel;
+  }
 });
 
 const levelsFile = 'visualization/data/levels.json';
